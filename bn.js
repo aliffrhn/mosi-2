@@ -6,6 +6,12 @@ let N = 100;
 let d = 5;
 let Q = 56;
 
+// Output Nilai Var
+console.log("Nilai l = ", l)
+console.log("Nilai N = ", N)
+console.log("Nilai d = ", d)
+console.log("Nilai Q = ", Q)
+
 // Hitung Phi
 let phi = (2*l)*N/(d*Q)
 
